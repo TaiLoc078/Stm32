@@ -1,1 +1,1 @@
-![IMAGE]([https://github.com/TaiLoc078/Stm32/blob/main/Project/GIF.gif?raw=true](https://github.com/TaiLoc078/Stm32/blob/main/Project/GIF.gif?raw=true))
+![IMAGE](https://raw.githubusercontent.com/TaiLoc078/Stm32/main/Project/GIF.gif)
